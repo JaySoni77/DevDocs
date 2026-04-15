@@ -1,0 +1,11 @@
+question,faithfulness,relevancy
+"What is the purpose of the tests module in the given code chunk, and what does it imply about its content?",1.0,1.0
+"What information should be included in the README file for a Python project, and what encoding and formatting options are available for this file?",1.0,1.0
+How do I install and run tests using the `tests` function in the `noxfile.py`?,0.8,0.8
+"What is the purpose of the `main` function in the `src/sample/__init__.py` file, and how should I use it to execute my application code?",1.0,0.8
+What are the requirements for including the copyright notice and permission notice in copies of the Software?,1.0,1.0
+Who holds the copyright for the content in the LICENSE.txt file?,0.8,0.6
+"What permissions are granted to a person obtaining a copy of the Software, and what conditions must they follow?",1.0,0.9
+What does the `build_and_check_dists` function do in the `noxfile.py` and what packages does it install?,1.0,1.0
+"What kind of warranty is provided with the software, and what are the authors or copyright holders liable for?",1.0,1.0
+How does the `test_add_one` method in the `TestSimple` class verify the functionality of the `add_one` function?,1.0,1.0

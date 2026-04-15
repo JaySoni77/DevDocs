@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  devdocs-ai:
+    build: .
+    container_name: devdocs-ai-prod
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    restart: always

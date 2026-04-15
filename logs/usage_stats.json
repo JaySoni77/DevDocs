@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "2026-03-25T16:23:42.764155",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 148,
+    "completion_tokens": 300,
+    "cost": 0.00032432,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T16:23:46.245146",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 692,
+    "completion_tokens": 2,
+    "cost": 0.00040986,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T16:23:47.163895",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 340,
+    "completion_tokens": 103,
+    "cost": 0.00028197,
+    "metadata": {
+      "action": "generate_answer"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:02.143280",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 147,
+    "completion_tokens": 300,
+    "cost": 0.00032373,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:06.582198",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 646,
+    "completion_tokens": 2,
+    "cost": 0.00038271999999999997,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:08.590883",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 179,
+    "completion_tokens": 300,
+    "cost": 0.00034261,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:13.193522",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 646,
+    "completion_tokens": 2,
+    "cost": 0.00038271999999999997,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:14.216230",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 267,
+    "completion_tokens": 64,
+    "cost": 0.00020809,
+    "metadata": {
+      "action": "generate_answer"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:31.819771",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 147,
+    "completion_tokens": 300,
+    "cost": 0.00032373,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:36.237189",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 692,
+    "completion_tokens": 2,
+    "cost": 0.00040986,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:19:37.153444",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 325,
+    "completion_tokens": 90,
+    "cost": 0.00026284999999999997,
+    "metadata": {
+      "action": "generate_answer"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:20:03.255073",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 146,
+    "completion_tokens": 300,
+    "cost": 0.00032313999999999997,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:20:07.151412",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 643,
+    "completion_tokens": 2,
+    "cost": 0.00038094999999999996,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:20:09.365290",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 199,
+    "completion_tokens": 300,
+    "cost": 0.00035441,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:20:14.121582",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 643,
+    "completion_tokens": 2,
+    "cost": 0.00038094999999999996,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:20:15.246424",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 291,
+    "completion_tokens": 131,
+    "cost": 0.00027518000000000003,
+    "metadata": {
+      "action": "generate_answer"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:20:57.528046",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 420,
+    "completion_tokens": 2,
+    "cost": 0.00024938,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:00.204591",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 420,
+    "completion_tokens": 2,
+    "cost": 0.00024938,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:01.327486",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 438,
+    "completion_tokens": 233,
+    "cost": 0.00044249000000000003,
+    "metadata": {
+      "action": "generate_answer"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:34.725542",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 146,
+    "completion_tokens": 300,
+    "cost": 0.00032313999999999997,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:35.024190",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 493,
+    "completion_tokens": 2,
+    "cost": 0.0002924499999999999,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:37.178595",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 213,
+    "completion_tokens": 300,
+    "cost": 0.00036266999999999994,
+    "metadata": {
+      "action": "generate_hyde"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:39.332385",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 493,
+    "completion_tokens": 2,
+    "cost": 0.0002924499999999999,
+    "metadata": {
+      "action": "grade_retrieval"
+    }
+  },
+  {
+    "timestamp": "2026-03-25T17:21:41.266539",
+    "model": "llama-3.3-70b-versatile",
+    "prompt_tokens": 2215,
+    "completion_tokens": 303,
+    "cost": 0.0015462199999999998,
+    "metadata": {
+      "action": "generate_answer"
+    }
+  }
+]
